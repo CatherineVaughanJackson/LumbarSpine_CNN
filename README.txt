@@ -16,3 +16,22 @@ LumbarSpine_CNN
 
 File in the folder File_Categorisation refer to the process of moving image files into appropriate folders determined by whether images present hernation and 
 what disc space the image is take from 
+
+If you wish to use GPU configuration GPU used Tesla P100-PCIE-16GB
+To configure GPU inside Juypter Notebook you will need: 
+
+NVIDIA driver 
+Visual Studio 2019, Microsoft visual C++
+CUDA : 11.2
+CuDNN : 8.1.0
+Python : 3.8
+Anaconda :4.13.0
+Juypter Notebook :6.4.5
+
+Module installation : 
+
+Tensorflow : 2.80
+pandas : 1.3.4 
+numpy : 1.20.3
+
+other modules (random, os, matplotlib, seaborn, sklearn)
